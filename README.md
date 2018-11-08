@@ -1,2 +1,2 @@
 # HelloWorld
-MyFirstGithunProgram
+MyFirstGithubProgram
